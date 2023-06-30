@@ -8,7 +8,7 @@ Apollo server with graphql subscriptions used inside Next.js based on his own we
 Clone the project
 
 ```bash
-  git clone https://github.com/wojcikfil/next-js-graphql-subscriptions
+git clone https://github.com/wojcikfil/next-js-graphql-subscriptions
 ```
 
 Go to the project directory
@@ -29,7 +29,7 @@ npm run build
 Start the server
 
 ```bash
-  npm start
+npm start
 ```
 
 Now WebSocket working on: ws://localhost:3000 and GraphQL http://localhost:3000/api/graphql
