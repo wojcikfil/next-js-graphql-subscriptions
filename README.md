@@ -14,13 +14,13 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd next-js-graphql-subscriptions
+cd next-js-graphql-subscriptions
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 Try building app
 ```bash
